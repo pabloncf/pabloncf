@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o **Pablo Cunha**
+# 👋 Hey, I'm **Pablo Cunha**
 
 ###  `Back-end Engineer` · `Cyber Security Student` · `Berlin, DE 🇩🇪`
 
@@ -15,18 +15,18 @@
 
 ---
 
-## 🧬 Sobre mim
+## 🧬 About Me
 
 ```yaml
-nome: Pablo Cunha
-localização: Berlin, Alemanha
-papel: Back-end Engineer
-foco_atual: Cyber Security (MSc) @ Gisma University
-interesses:
-  - Arquitetura de sistemas escaláveis
-  - Segurança de software
+name: Pablo Cunha
+location: Berlin, Germany
+role: Back-end Engineer
+current_focus: Cyber Security (MSc) @ Gisma University
+interests:
+  - Scalable system architecture
+  - Software security
   - DevOps & Cloud
-  - Refatoração de sistemas legados
+  - Legacy system refactoring
 ```
 
 ---
@@ -35,21 +35,21 @@ interesses:
 
 <div align="center">
 
-### Linguagens
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Bibliotecas
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### DevOps & Ferramentas
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -57,7 +57,7 @@ interesses:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### Bancos de Dados
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -65,14 +65,14 @@ interesses:
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-| Idioma | Nível | |
+| Language | Level | |
 |---|---|---|
-| 🇧🇷 Português | `████████████████████` Nativo (C2) | 🗣️ |
-| 🇬🇧 English | `████████████████░░░░` Avançado (C1) | 🗣️ |
-| 🇪🇸 Español | `██████████░░░░░░░░░░` Intermediário (B1) | 📖 |
-| 🇩🇪 Deutsch | `██████░░░░░░░░░░░░░░` Básico (A2) | 📖 |
+| 🇧🇷 Portuguese | `████████████████████` Native (C2) | 🗣️ |
+| 🇬🇧 English | `████████████████░░░░` Advanced (C1) | 🗣️ |
+| 🇪🇸 Spanish | `██████████░░░░░░░░░░` Intermediate (B1) | 📖 |
+| 🇩🇪 German | `██████░░░░░░░░░░░░░░` Basic (A2) | 📖 |
 
 ---
 
@@ -89,7 +89,7 @@ interesses:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pabloncf&color=58a6ff&style=flat-square&label=Visitantes" />
+<img src="https://komarev.com/ghpvc/?username=pabloncf&color=58a6ff&style=flat-square&label=Visitors" />
 
 *"Security is not a product, but a process." — Bruce Schneier*
 
