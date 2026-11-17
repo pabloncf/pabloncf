@@ -4,7 +4,7 @@
 
 ###  `Back-end Engineer` · `Cyber Security Student` · `Berlin, DE 🇩🇪`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=5%2B+years+building+scalable+systems;Java+%7C+Python+%7C+PHP+%7C+JS;Security-first+mindset+%F0%9F%94%90;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=7%2B+years+building+scalable+systems;Java+%7C+Python+%7C+PHP+%7C+JS;Security-first+mindset+%F0%9F%94%90;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
